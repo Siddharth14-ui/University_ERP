@@ -26,4 +26,5 @@
    SOURCE erp_system.sql;
 
 ## Author
-Prashant Bhardwaj
+SIDDHARTH SINGH
+
